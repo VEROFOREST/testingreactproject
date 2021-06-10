@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Layout snapshot renders Correctly 1`] = `
+<div>
+  <h1>
+    Basic Calculator
+  </h1>
+  <home-component
+    fetchRandomNumber={[Function]}
+  />
+</div>
+`;
